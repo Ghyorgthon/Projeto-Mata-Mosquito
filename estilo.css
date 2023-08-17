@@ -2,7 +2,7 @@ html{
     cursor: url(imagens/mata_mosca.png) 30 30, auto;
 }
 .bg-prin{
-    background-image: url(imagens/bg.jpg);
+    background: url(imagens/bg.jpg) no-repeat;
     width: 100vw;
     height: 100vh;
 }
